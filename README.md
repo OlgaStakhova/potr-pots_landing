@@ -1,4 +1,7 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# POTR POTS landing with Gulp, SCSS and Stylelint
+
+The main idea of project is attacment skills separating big task on parts, work with Photoshop, BEM,  Figma and adaptive design
+
+Use: Gulp, HTML, JS, CSS, SASS, Photoshop, Figma
+
+   - [DEMO LINK](https://olgastakhova.github.io/potr-pots_landing/)
